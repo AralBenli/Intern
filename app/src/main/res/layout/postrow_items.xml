@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/post_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="com.aralb.internproject.MainActivity"
+    >
+
+    <TextView
+        android:id="@+id/postidTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/postid"
+        android:textSize="20sp"
+        android:background="@color/cardview_light_background"/>
+
+    <TextView
+        android:id="@+id/postTitleTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background"
+        android:textSize="20sp"
+        android:text="@string/title"
+        android:textColor="#BCAAA4"
+        />
+
+    <TextView
+        android:id="@+id/postBodyTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/body"
+        android:background="@color/cardview_light_background"/>
+
+
+
+
+</LinearLayout>

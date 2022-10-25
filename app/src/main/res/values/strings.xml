@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">InternProject</string>
+    <string name="todo">ToDo</string>
+    <string name="usercompany">userCompany</string>
+    <string name="useradress">userAdress</string>
+    <string name="album">Album</string>
+    <string name="posts">Posts</string>
+    <string name="user_name">user name</string>
+    <string name="user_address">user address</string>
+    <string name="user_e_mail">user e-mail</string>
+    <string name="username">username</string>
+    <string name="user_phone">user phone</string>
+    <string name="website">website</string>
+    <string name="company">company</string>
+    <string name="user_id">user id</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photos">Photos</string>
+    <string name="title">Title</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="back">Back</string>
+    <string name="commends">Commends</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="id">id</string>
+    <string name="body">body</string>
+    <string name="done">Done</string>
+    <string name="albumid">albumId</string>
+    <string name="personid">personId</string>
+    <string name="avatar">avatar</string>
+    <string name="textview">TextView</string>
+    <string name="comments">Comments</string>
+    <string name="profile">Profile</string>
+    <string name="postid">postId</string>
+    <string name="e_mail">e-mail</string>
+    <string name="post_id">post id</string>
+</resources>

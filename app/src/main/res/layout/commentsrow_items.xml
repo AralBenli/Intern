@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/commentsidTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/id"
+        android:textSize="20sp"
+        android:background="@color/cardview_light_background"/>
+
+    <TextView
+        android:id="@+id/commentsNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background"
+        android:textSize="20sp"
+        android:text="@string/name"
+        android:textColor="#BCAAA4"
+        />
+
+    <TextView
+        android:id="@+id/commentsEmailTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/e_mail"
+        android:background="@color/cardview_light_background"/>
+    <TextView
+        android:id="@+id/commentsPostIdTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/cardview_dark_background"
+        android:textSize="20sp"
+        android:text="@string/post_id"
+        android:textColor="#BCAAA4"/>
+
+    <TextView
+        android:id="@+id/commentsBodyTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="@string/body"
+        android:background="@color/cardview_light_background"
+        />
+
+
+</LinearLayout>
